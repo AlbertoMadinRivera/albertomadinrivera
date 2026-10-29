@@ -37,7 +37,7 @@ Senior Data Operations Analyst based in Mexico City with experience in data auto
 
 ## 📫 Connect with Me
 
-- LinkedIn: [linkedin.com/in/albertomadin](#)
+- LinkedIn: [linkedin.com/in/albertomadin](https://www.linkedin.com/in/alberto-madin-rivera-3a1b38223/)
 
 - ## 💡 Interests
 
