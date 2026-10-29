@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Alberto 👋
 
-<!--
-**AlbertoMadinRivera/albertomadinrivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Data Operations Analyst based in Mexico City with experience in data automation, analytics, and business intelligence.
 
-Here are some ideas to get you started:
+## 🚀 What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Build data solutions with Python and SQL
+- Develop interactive dashboards and applications using R Shiny
+- Automate reporting and validation processes
+- Transform complex datasets into actionable insights
+- Create data visualizations that support business decisions
+
+## 🛠️ Tech Stack
+
+- Python
+- R / Shiny
+- SQL
+- Git & GitHub
+- Power BI
+- Excel
+- Data Visualization
+- Data Quality & Validation
+
+## 📌 Featured Projects
+
+🔹 R Shiny Data Visualization Gallery *(Work in Progress)*
+
+🔹 Store Master Validation Automation
+
+🔹 Data Quality Monitoring Tools
+
+## 🌱 Currently Learning
+
+- Advanced Python Development
+- Cloud Data Solutions
+- Data Engineering Best Practices
+
+## 📫 Connect with Me
+
+- LinkedIn: [linkedin.com/in/albertomadin](#)
+
+- ## 💡 Interests
+
+I enjoy building practical data products that help teams save time, improve data quality, and make better decisions.
+
+My current focus is on:
+- Analytics Automation
+- Self-Service Reporting
+- R Shiny Applications
+- Data Visualization
+- Process Optimization
