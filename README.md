@@ -2,6 +2,8 @@
 
 Senior Data Operations Analyst based in Mexico City with experience in data automation, analytics, and business intelligence.
 
+![Perfil](images/Designer.png)
+
 ## 🚀 What I do
 
 - Build data solutions with Python and SQL
