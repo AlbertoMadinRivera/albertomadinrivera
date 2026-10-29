@@ -2,6 +2,8 @@
 
 ## Senior Data Operations Analyst | Data Analytics | Python | R | Shiny
 
+![Perfil](images/Designer.png)
+
 I am a Data Operations professional with experience in data quality, automation, analytics, and dashboard development. My work focuses on transforming complex business requirements into efficient, scalable, and data-driven solutions.
 
 Currently, I work with large-scale retail and consumer data, while continuously building projects related to data visualization, process automation, and interactive applications.
